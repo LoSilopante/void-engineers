@@ -1,0 +1,24 @@
+{
+  "customizedAnimations": [
+    {
+      "identifier": 4,
+      "Name": "poof",
+      "Animation Curve": 0,
+      "Despawn Speed": 0.0,
+      "Type": 0,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:poof",
+          "Amount": 6,
+          "Spread Radius": 0.8,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.07999999821186066,
+          "Sound": "minecraft:block.soul_soil.fall"
+        }
+      ]
+    }
+  ]
+}
